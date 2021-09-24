@@ -1,6 +1,6 @@
 👋 Hi, I’m @AlbanGauthier  
 I am a PhD Student in Computer Graphics at Télécom Paris  
-You can find more information about me at this adress:  
+You can find more information about me on my personal website:  
 https://perso.telecom-paristech.fr/gauthier/
 
 <!---
