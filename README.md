@@ -1,5 +1,6 @@
 👋 Hi, I’m @AlbanGauthier  
-I am a Computer Graphics Researcher, and I received my PhD from Télécom Paris in Dec. 2022  
+I am a Computer Graphics Researcher, and I received my PhD from Télécom Paris in Dec. 2022.  
+I am currently a postdoc in the GraphDeco group at INRIA Sophia Antipolis, working with George Drettakis and Adrien Bousseau.  
 You can find more information about me on my personal website:  
 https://albangauthier.github.io/
 
